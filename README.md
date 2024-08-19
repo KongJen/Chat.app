@@ -4,6 +4,6 @@ Chat.app is a basic web application. It use to message to another user. I use Vi
 
 ## User for test
 
-You can create new client or use this user
-username: johndoe
+You can create new client or use this user \
+username: johndoe\
 password: 123456
